@@ -1,0 +1,3 @@
+cd C:\Users\sudha\OneDrive\Desktop\main_code\yolov5
+
+python detect.py --weights last.pt --img 640 --conf 0.8 --source 0
